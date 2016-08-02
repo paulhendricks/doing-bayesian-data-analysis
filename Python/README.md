@@ -1,5 +1,7 @@
 # Doing Bayesian Data Analysis: Python Notes
 
+## Setup
+
 To create a Conda environment, please enter the following into a shell:
 
 ```shell
@@ -11,3 +13,7 @@ To activate the newly created Conda environment, please enter the following into
 ```shell
 source activate doing-bayesian-data-analysis
 ```
+
+## Resources
+
+* [notes](https://github.com/aloctavodia/Doing_bayesian_data_analysis)
