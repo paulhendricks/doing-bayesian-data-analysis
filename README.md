@@ -1,1 +1,1 @@
-# doing-bayesian-data-analysis
+# Doing Bayesian Data Analysis: Notes
